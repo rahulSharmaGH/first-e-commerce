@@ -39,18 +39,18 @@ const footer = () => {
               <h4 className="text-white mb-4">Contact Us</h4>
               <div className="footer-links d-flex flex-column">
                 <address className="text-white fs-5">
-                  House No.217 Bypass Niwari, <br />
-                  Tikamgarh,Madhya Pradesh <br />
-                  Pincode :472442{" "}
+                  House No.123 , <br />
+                  XYZ,XYZ,XYZ <br />
+                  Pincode :123456{" "}
                 </address>
                 <a className="text-white" href="tel:+917898640906">
-                  +91 7898640906
+                  +91 77777777
                 </a>
                 <a
                   className="text-white py-3"
                   href="mailto:bossgotlucky@gmail.com"
                 >
-                  Bossgotlucky@gmail.com
+                  creator@gmail.com
                 </a>
                 <div className="social-icons d-flex align-items-center gap-30 mt-4 ">
                   <a href="">
